@@ -5,4 +5,11 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="PacketDotNet" Version="0.19.1" />
+    <PackageReference Include="SharpPcap" Version="4.5.0" />
+    <PackageReference Include="VkNet" Version="1.37.1" />
+  </ItemGroup>
+
 </Project>
